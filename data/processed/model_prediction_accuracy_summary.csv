@@ -1,0 +1,6 @@
+metric,display_name,evaluated_matches,correct_predictions,accuracy,status
+winner_accuracy,赢家预测准确率,1,1,1.0,active
+scoreline_top1_accuracy,比分预测准确率 Top 1,1,0,0.0,active
+scoreline_top3_accuracy,比分预测准确率 Top 3,1,1,1.0,active
+first_goalscorer_accuracy,进球球员预测准确率,0,0,,pending scorer model/data
+corners_total_direction_accuracy,角球数量方向准确率,0,0,,pending corners model/data

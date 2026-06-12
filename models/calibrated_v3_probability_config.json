@@ -1,0 +1,29 @@
+{
+  "model_version": "calibrated_v3_floor_010_T1.2",
+  "purpose": "probability_display_and_fair_odds",
+  "winner_model": "v4_elo_ensemble_calibrated_v1",
+  "base_probability_model": "v2_50_50",
+  "base_formula": "0.50 * v4_elo_ensemble_calibrated_v1 + 0.50 * raw_ensemble",
+  "probability_floor": 0.10,
+  "temperature": 1.2,
+  "post_processing_order": [
+    "blend calibrated_v1 and raw_ensemble using 50/50 weights",
+    "apply min probability floor to home_win, draw, away_win",
+    "renormalize probabilities to sum to 1",
+    "apply temperature scaling with T > 1",
+    "renormalize probabilities to sum to 1"
+  ],
+  "selection_reason": "Best match to current fair-odds targets: log_loss < 1.55, brier_score < 0.52, avg_draw_prob within 25%-28%, and min_true_class_prob > 0.08 while retaining high top1 accuracy.",
+  "walk_forward_backtest": {
+    "years": [2010, 2014, 2018, 2022],
+    "top1_accuracy": 0.6640625,
+    "non_draw_pick_accuracy": 0.853604,
+    "log_loss": 1.520001547986027,
+    "brier_score": 0.4994839120012297,
+    "avg_draw_prob": 0.27359883556801057,
+    "predicted_draws": 0.25,
+    "draw_recall": 0.0,
+    "min_true_class_prob": 0.12404285097710882,
+    "worst_10_avg_log_loss": 1.4971703259075184
+  }
+}

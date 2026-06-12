@@ -1,0 +1,105 @@
+match_id,match,row_type,probability_sum,probability_sum_ok,home_fair_odds_ok,draw_fair_odds_ok,away_fair_odds_ok,favorite_from_winner_model_ok,winner_model_version_ok,probability_model_note_ok,placeholder_handled_ok
+wc2026_r001,Mexico vs South Africa,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r002,South Korea vs Czechia,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r003,Czechia vs South Africa,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r004,Mexico vs South Korea,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r005,Czechia vs Mexico,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r006,South Africa vs South Korea,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r007,Canada vs Bosnia and Herzegovina,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r008,Qatar vs Switzerland,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r009,Switzerland vs Bosnia and Herzegovina,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r010,Canada vs Qatar,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r011,Switzerland vs Canada,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r012,Bosnia and Herzegovina vs Qatar,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r013,Brazil vs Morocco,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r014,Haiti vs Scotland,predicted_group_match,0.9999999999999997,True,True,True,True,True,True,True,True
+wc2026_r015,Scotland vs Morocco,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r016,Brazil vs Haiti,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r017,Scotland vs Brazil,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r018,Morocco vs Haiti,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r019,United States vs Paraguay,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r020,Australia vs Turkey,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r021,United States vs Australia,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r022,Turkey vs Paraguay,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r023,Turkey vs United States,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r024,Paraguay vs Australia,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r025,Germany vs Curaçao,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r026,Ivory Coast vs Ecuador,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r027,Germany vs Ivory Coast,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r028,Ecuador vs Curaçao,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r029,Curaçao vs Ivory Coast,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r030,Ecuador vs Germany,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r031,Netherlands vs Japan,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r032,Sweden vs Tunisia,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r033,Netherlands vs Sweden,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r034,Tunisia vs Japan,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r035,Japan vs Sweden,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r036,Tunisia vs Netherlands,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r037,Belgium vs Egypt,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r038,Iran vs New Zealand,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r039,Belgium vs Iran,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r040,New Zealand vs Egypt,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r041,Egypt vs Iran,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r042,New Zealand vs Belgium,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r043,Spain vs Cape Verde,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r044,Saudi Arabia vs Uruguay,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r045,Spain vs Saudi Arabia,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r046,Uruguay vs Cape Verde,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r047,Cape Verde vs Saudi Arabia,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r048,Uruguay vs Spain,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r049,France vs Senegal,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r050,Iraq vs Norway,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r051,France vs Iraq,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r052,Norway vs Senegal,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r053,Norway vs France,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r054,Senegal vs Iraq,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r055,Argentina vs Algeria,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r056,Austria vs Jordan,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r057,Argentina vs Austria,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r058,Jordan vs Algeria,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r059,Algeria vs Austria,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r060,Jordan vs Argentina,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r061,Portugal vs Democratic Republic of Congo,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r062,Uzbekistan vs Colombia,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r063,Portugal vs Uzbekistan,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r064,Colombia vs Democratic Republic of Congo,predicted_group_match,0.9999999999999999,True,True,True,True,True,True,True,True
+wc2026_r065,Colombia vs Portugal,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r066,Democratic Republic of Congo vs Uzbekistan,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r067,England vs Croatia,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r068,Ghana vs Panama,predicted_group_match,1.0000000000000002,True,True,True,True,True,True,True,True
+wc2026_r069,England vs Ghana,predicted_group_match,1.0000000000000002,True,True,True,True,True,True,True,True
+wc2026_r070,Panama vs Croatia,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_r071,Panama vs England,predicted_group_match,1.0,True,True,True,True,True,True,True,True
+wc2026_r072,Croatia vs Ghana,predicted_group_match,0.9999999999999998,True,True,True,True,True,True,True,True
+wc2026_m073,2A vs 2B,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m074,1E vs 3A/B/C/D/F,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m075,1F vs 2C,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m076,1C vs 2F,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m077,1I vs 3C/D/F/G/H,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m078,2E vs 2I,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m079,1A vs 3C/E/F/H/I,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m080,1L vs 3E/H/I/J/K,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m081,1D vs 3B/E/F/I/J,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m082,1G vs 3A/E/H/I/J,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m083,2K vs 2L,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m084,1H vs 2J,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m085,1B vs 3E/F/G/I/J,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m086,1J vs 2H,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m087,1K vs 3D/E/I/J/L,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m088,2D vs 2G,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m089,W74 vs W77,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m090,W73 vs W75,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m091,W76 vs W78,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m092,W79 vs W80,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m093,W83 vs W84,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m094,W81 vs W82,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m095,W86 vs W88,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m096,W85 vs W87,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m097,W89 vs W90,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m098,W93 vs W94,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m099,W91 vs W92,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m100,W95 vs W96,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m101,W97 vs W98,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_m102,W99 vs W100,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_r103,L101 vs L102,knockout_placeholder,,True,True,True,True,True,True,True,True
+wc2026_r104,W101 vs W102,knockout_placeholder,,True,True,True,True,True,True,True,True

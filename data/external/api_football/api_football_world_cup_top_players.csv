@@ -1,0 +1,81 @@
+season,metric,rank,player_id,player,age,nationality,injured,team_id,team,appearances,lineups,minutes,position,rating,goals,assists,shots_total,shots_on,passes_total,passes_key,yellow_cards,red_cards
+2022,topscorers,1,278,Kylian Mbappé,27,France,False,2,France,7,6,597,Midfielder,7.61,8,2,21.0,14.0,200,11.0,0,0
+2022,topscorers,2,154,L. Messi,38,Argentina,False,26,Argentina,7,7,690,Attacker,8.31,7,3,29.0,18.0,347,21.0,1,0
+2022,topscorers,3,6009,J. Álvarez,25,Argentina,False,26,Argentina,7,5,467,Attacker,7,4,0,9.0,8.0,116,3.0,0,0
+2022,topscorers,4,2295,O. Giroud,39,France,False,2,France,6,6,423,Attacker,7.23,4,0,15.0,6.0,73,2.0,1,0
+2022,topscorers,5,41585,Gonçalo Ramos,24,Portugal,False,27,Portugal,4,2,164,Attacker,7.33,3,1,7.0,5.0,31,2.0,0,0
+2022,topscorers,6,59,Álvaro Morata,33,Spain,False,9,Spain,4,1,183,Attacker,7.1,3,1,8.0,5.0,41,2.0,0,0
+2022,topscorers,7,909,M. Rashford,28,England,False,10,England,5,1,148,Attacker,7.2,3,0,9.0,6.0,64,,0,0
+2022,topscorers,8,247,C. Gakpo,26,Netherlands,False,1118,Netherlands,5,5,453,Attacker,7.48,3,0,3.0,3.0,110,10.0,0,0
+2022,topscorers,9,1460,B. Saka,24,England,False,10,England,4,4,293,Midfielder,7.55,3,0,7.0,5.0,101,5.0,0,0
+2022,topscorers,10,2413,Richarlison,28,Brazil,False,6,Brazil,4,4,326,Attacker,7.43,3,0,5.0,4.0,56,6.0,0,0
+2022,topscorers,11,35533,E. Valencia,36,Ecuador,False,2382,Ecuador,3,3,256,Attacker,7.33,3,0,4.0,4.0,53,3.0,0,0
+2022,topscorers,12,25391,N. Füllkrug,32,Germany,False,25,Germany,3,0,66,Attacker,7.2,2,1,7.0,3.0,24,1.0,0,0
+2022,topscorers,13,386,V. Aboubakar,34,Cameroon,False,1530,Cameroon,3,1,141,Attacker,7.4,2,1,4.0,3.0,31,2.0,1,0
+2022,topscorers,14,726,A. Kramarić,34,Croatia,False,3,Croatia,7,7,481,Attacker,6.8,2,0,6.0,4.0,167,4.0,0,0
+2022,topscorers,15,47422,Y. En-Nesyri,28,Morocco,False,31,Morocco,7,7,547,Attacker,6.86,2,0,7.0,3.0,79,1.0,0,0
+2022,topscorers,16,22236,Rafael Leão,26,Portugal,False,27,Portugal,5,0,88,Attacker,7.02,2,0,4.0,2.0,41,1.0,0,0
+2022,topscorers,17,25416,W. Weghorst,33,Netherlands,False,1118,Netherlands,4,0,61,Attacker,6.97,2,0,2.0,2.0,15,1.0,1,0
+2022,topscorers,18,2598,R. Dōan,27,Japan,False,12,Japan,4,2,218,Attacker,7.18,2,0,4.0,3.0,46,4.0,0,0
+2022,topscorers,19,34211,Cho Gue-Sung,28,Korea Republic,False,17,South Korea,4,3,275,Attacker,6.98,2,0,6.0,5.0,63,1.0,1,0
+2022,topscorers,20,421,B. Embolo,28,Switzerland,False,15,Switzerland,4,4,326,Attacker,6.68,2,0,4.0,3.0,61,2.0,0,0
+2022,topassists,1,154,L. Messi,38,Argentina,False,26,Argentina,7,7,690,Attacker,8.31,7,3,29.0,18.0,347,21.0,1,0
+2022,topassists,2,184,H. Kane,32,England,False,10,England,5,5,404,Attacker,7.2,2,3,9.0,6.0,90,5.0,0,0
+2022,topassists,3,1485,Bruno Fernandes,31,Portugal,False,27,Portugal,4,4,357,Attacker,8.48,2,3,7.0,3.0,201,9.0,1,0
+2022,topassists,4,207,I. Perišić,36,Croatia,False,3,Croatia,7,7,670,Attacker,7.2,1,3,13.0,4.0,230,9.0,0,0
+2022,topassists,5,56,A. Griezmann,34,France,False,2,France,7,6,537,Midfielder,7.7,0,3,5.0,3.0,285,22.0,1,0
+2022,topassists,6,278,Kylian Mbappé,27,France,False,2,France,7,6,597,Midfielder,7.61,8,2,21.0,14.0,200,11.0,0,0
+2022,topassists,7,1330,M. Oršić,33,Croatia,False,3,Croatia,6,1,169,Attacker,7.08,1,2,5.0,2.0,49,5.0,0,0
+2022,topassists,8,47300,T. Hernández,28,France,False,2,France,6,5,508,Defender,7.32,1,2,5.0,2.0,280,11.0,1,0
+2022,topassists,9,226,D. Dumfries,29,Netherlands,False,1118,Netherlands,5,5,480,Midfielder,6.88,1,2,1.0,1.0,159,2.0,1,0
+2022,topassists,10,25321,D. Klaassen,32,Netherlands,False,1118,Netherlands,4,3,191,Midfielder,7.08,1,2,2.0,1.0,75,4.0,0,0
+2022,topassists,11,631,P. Foden,25,England,False,10,England,4,3,259,Midfielder,7.28,1,2,4.0,1.0,102,6.0,0,0
+2022,topassists,12,8,Raphaël Guerreiro,32,Portugal,False,27,Portugal,4,3,279,Defender,7.28,1,2,2.0,1.0,146,6.0,0,0
+2022,topassists,13,762,Vinícius Júnior,25,Brazil,False,6,Brazil,4,4,302,Midfielder,7,1,2,8.0,4.0,76,8.0,0,0
+2022,topassists,14,17,C. Pulišić,27,USA,False,2384,USA,4,4,315,Midfielder,7.25,1,2,7.0,5.0,110,9.0,0,0
+2022,topassists,15,583,João Félix,26,Portugal,False,27,Portugal,4,4,333,Attacker,7.1,1,2,6.0,3.0,115,3.0,1,0
+2022,topassists,16,153,O. Dembélé,28,France,False,2,France,7,6,438,Midfielder,6.86,0,2,3.0,2.0,171,11.0,1,0
+2022,topassists,17,128,Jordi Alba,36,Spain,False,9,Spain,4,3,266,Defender,7.28,0,2,1.0,,322,5.0,0,0
+2022,topassists,18,579,A. Živković,29,Serbia,False,14,Serbia,3,3,213,Midfielder,7.27,0,2,1.0,,71,4.0,0,0
+2022,topassists,19,554,D. Tadić,37,Serbia,False,14,Serbia,3,3,258,Attacker,7.37,0,2,1.0,,107,10.0,0,0
+2022,topassists,20,41585,Gonçalo Ramos,24,Portugal,False,27,Portugal,4,2,164,Attacker,7.33,3,1,7.0,5.0,31,2.0,0,0
+2022,topyellowcards,1,1493,M. Acuña,34,Argentina,False,26,Argentina,6,4,374,Defender,6.93,0,0,2.0,,173,5.0,3,0
+2022,topyellowcards,2,2468,G. Montiel,28,Argentina,False,26,Argentina,4,1,118,Defender,6.48,0,0,,,66,3.0,3,0
+2022,topyellowcards,3,30776,C. Romero,27,Argentina,False,26,Argentina,7,6,548,Defender,6.76,0,0,,,373,,2,0
+2022,topyellowcards,4,2291,M. Kovačić,31,Croatia,False,3,Croatia,7,7,638,Midfielder,7.13,0,0,3.0,1.0,456,9.0,2,0
+2022,topyellowcards,5,624,N. Otamendi,37,Argentina,False,26,Argentina,7,7,690,Defender,6.97,0,1,1.0,,575,2.0,2,0
+2022,topyellowcards,6,271,L. Paredes,31,Argentina,False,26,Argentina,5,2,224,Midfielder,6.98,0,0,1.0,1.0,244,2.0,2,0
+2022,topyellowcards,7,2742,M. Degenek,31,Australia,False,20,Australia,4,2,190,Defender,6.85,0,0,,,74,,2,0
+2022,topyellowcards,8,2903,Jung Woo-Young,36,Korea Republic,False,17,South Korea,4,4,304,Midfielder,6.55,0,0,1.0,,208,2.0,2,0
+2022,topyellowcards,9,2749,J. Irvine,32,Australia,False,20,Australia,4,4,355,Midfielder,6.58,0,0,3.0,,125,1.0,2,0
+2022,topyellowcards,10,19298,M. Cash,28,Poland,False,24,Poland,4,4,360,Defender,6.6,0,0,1.0,,121,2.0,2,0
+2022,topyellowcards,11,44475,Abdulelah Al Amri,28,Saudi Arabia,False,23,Saudi Arabia,3,2,196,Defender,6.63,0,0,1.0,,102,,2,0
+2022,topyellowcards,12,45826,S. Pavlović,24,Serbia,False,14,Serbia,3,3,236,Defender,6.6,1,0,2.0,1.0,153,,2,0
+2022,topyellowcards,13,2823,S. Lukić,29,Serbia,False,14,Serbia,3,3,246,Midfielder,6.3,0,0,,,161,,2,0
+2022,topyellowcards,14,38114,K. Itakura,28,Japan,False,12,Japan,3,3,270,Defender,7.03,0,1,1.0,1.0,111,1.0,2,0
+2022,topyellowcards,15,2817,N. Milenković,28,Serbia,False,14,Serbia,3,3,270,Defender,6.87,0,0,2.0,,160,,2,0
+2022,topyellowcards,16,2100,C. Fai,33,Cameroon,False,1530,Cameroon,3,3,270,Defender,6.67,0,0,1.0,,109,3.0,2,0
+2022,topyellowcards,17,2990,I. Gueye,36,Senegal,False,13,Senegal,3,3,270,Midfielder,6.77,0,0,3.0,1.0,113,1.0,2,0
+2022,topyellowcards,18,2700,A. Jahanbakhsh,32,Iran,False,22,Iran,2,1,58,Midfielder,6.25,0,0,1.0,,15,,2,0
+2022,topyellowcards,19,1489,N. Gudelj,34,Serbia,False,14,Serbia,2,1,92,Midfielder,6.4,0,0,,,52,,2,0
+2022,topyellowcards,20,162714,A. Onana,24,Belgium,False,1,Belgium,2,1,105,Midfielder,6.6,0,0,2.0,,63,,2,0
+2022,topredcards,1,18836,W. Hennessey,38,Wales,False,767,Wales,2,2,176,Goalkeeper,6.8,0,0,,,48,,0,1
+2022,topredcards,2,226,D. Dumfries,29,Netherlands,False,1118,Netherlands,5,5,480,Midfielder,6.88,1,2,1.0,1.0,159,2.0,1,0
+2022,topredcards,3,386,V. Aboubakar,34,Cameroon,False,1530,Cameroon,3,1,141,Attacker,7.4,2,1,4.0,3.0,31,2.0,1,0
+2022,topredcards,4,128478,W. Cheddira,27,Morocco,False,31,Morocco,2,0,66,Attacker,6.25,0,0,2.0,1.0,8,,1,0
+2022,topredcards,5,1493,M. Acuña,34,Argentina,False,26,Argentina,6,4,374,Defender,6.93,0,0,2.0,,173,5.0,3,0
+2022,topredcards,6,2468,G. Montiel,28,Argentina,False,26,Argentina,4,1,118,Defender,6.48,0,0,,,66,3.0,3,0
+2022,topredcards,7,30776,C. Romero,27,Argentina,False,26,Argentina,7,6,548,Defender,6.76,0,0,,,373,,2,0
+2022,topredcards,8,2291,M. Kovačić,31,Croatia,False,3,Croatia,7,7,638,Midfielder,7.13,0,0,3.0,1.0,456,9.0,2,0
+2022,topredcards,9,624,N. Otamendi,37,Argentina,False,26,Argentina,7,7,690,Defender,6.97,0,1,1.0,,575,2.0,2,0
+2022,topredcards,10,271,L. Paredes,31,Argentina,False,26,Argentina,5,2,224,Midfielder,6.98,0,0,1.0,1.0,244,2.0,2,0
+2022,topredcards,11,2742,M. Degenek,31,Australia,False,20,Australia,4,2,190,Defender,6.85,0,0,,,74,,2,0
+2022,topredcards,12,2903,Jung Woo-Young,36,Korea Republic,False,17,South Korea,4,4,304,Midfielder,6.55,0,0,1.0,,208,2.0,2,0
+2022,topredcards,13,2749,J. Irvine,32,Australia,False,20,Australia,4,4,355,Midfielder,6.58,0,0,3.0,,125,1.0,2,0
+2022,topredcards,14,19298,M. Cash,28,Poland,False,24,Poland,4,4,360,Defender,6.6,0,0,1.0,,121,2.0,2,0
+2022,topredcards,15,44475,Abdulelah Al Amri,28,Saudi Arabia,False,23,Saudi Arabia,3,2,196,Defender,6.63,0,0,1.0,,102,,2,0
+2022,topredcards,16,45826,S. Pavlović,24,Serbia,False,14,Serbia,3,3,236,Defender,6.6,1,0,2.0,1.0,153,,2,0
+2022,topredcards,17,2823,S. Lukić,29,Serbia,False,14,Serbia,3,3,246,Midfielder,6.3,0,0,,,161,,2,0
+2022,topredcards,18,38114,K. Itakura,28,Japan,False,12,Japan,3,3,270,Defender,7.03,0,1,1.0,1.0,111,1.0,2,0
+2022,topredcards,19,2817,N. Milenković,28,Serbia,False,14,Serbia,3,3,270,Defender,6.87,0,0,2.0,,160,,2,0
+2022,topredcards,20,2990,I. Gueye,36,Senegal,False,13,Senegal,3,3,270,Midfielder,6.77,0,0,3.0,1.0,113,1.0,2,0

@@ -1,0 +1,105 @@
+fixture_id,team_id,team,formation,coach_id,coach,lineup_section,player_id,player,number,position,grid
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,2892,Kim Seung-gyu,1,G,1:1
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,237218,Han-Beom Lee,2,D,2:3
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,2897,Kim Min-jae,4,D,2:2
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,304951,Gi-Hyuk Lee,3,D,2:1
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,197985,Young-woo Seol,22,M,3:4
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,2901,Hwang In-beom,6,M,3:3
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,2909,Seung Ho Paik,8,M,3:2
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,237220,Lee Tae-seok,13,M,3:1
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,927,Kang-in Lee,19,F,4:2
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,2906,Jae-sung Lee,10,F,4:1
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,startxi,186,Son Heung-min,7,F,5:1
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,2890,Jo Hyeonwoo,21,G,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,34374,Song Bum-keun,12,G,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,2912,Kim Moon-hwan,15,D,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,357209,Wi-je Cho,14,D,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,34418,Kim Tae-hyeon,5,D,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,34431,Dong-gyeong Lee,26,M,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,280358,Jens Castrop,23,M,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,237050,Ji-sung Eom,25,F,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,34168,Jin-gyu Kim,24,M,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,99211,Jin-seob Park,16,M,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,357286,Jun-Ho Bae,17,M,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,34211,Gue-sung Cho,9,F,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,24888,Hwang Hee-chan,11,F,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,34710,Hyeon-gyu Oh,18,F,
+1538999,17,South Korea,3-4-2-1,10461,Myung-Bo Hong,substitute,304958,Yang Hyun-Jun,20,F,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,138804,Matěj Kovář,1,G,1:1
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,337740,Štěpán Chaloupek,6,D,2:3
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,162964,Robin Hranáč,4,D,2:2
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,66407,Ladislav Krejčí,7,D,2:1
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,1231,Vladimír Coufal,5,M,3:4
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,1243,Tomáš Souček,22,M,3:3
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,386837,Alexandr Sojka,24,M,3:2
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,1237,Jaroslav Zelený,20,M,3:1
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,66353,Lukáš Provod,17,F,4:2
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,66387,Pavel Šulc,15,F,4:1
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,startxi,794,Patrik Schick,10,F,5:1
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,66347,Jindřich Staněk,16,G,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,269349,Lukáš Horníček,23,G,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,128793,David Jurásek,14,D,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,128772,David Zima,2,D,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,2252,Tomáš Holeš,3,D,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,241,Michal Sadílek,18,M,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,66214,David Douděra,21,M,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,290212,Denis Višinský,26,M,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,555437,Hugo Sochurek,25,M,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,162194,Lukáš Červ,12,M,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,25348,Vladimír Darida,8,M,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,66019,Adam Hložek,9,F,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,66340,Jan Kuchta,11,F,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,66275,Mojmír Chytil,13,F,
+1538999,770,Czech Republic,3-4-2-1,28720,Miroslav Koubek,substitute,818,Tomáš Chorý,19,F,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,270774,Raúl Rangel,1,G,1:1
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,127227,Israel Reyes,15,D,2:4
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,2873,César Montes,3,D,2:3
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,35544,Johan Vásquez,5,D,2:2
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,2881,Jesús Gallardo,23,D,2:1
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,266345,Erik Lira,6,M,3:1
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,2879,Roberto Alvarado,25,M,4:4
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,212233,Brian Gutiérrez,26,M,4:3
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,750,Álvaro Fidalgo,8,M,4:2
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,35532,Julián Quiñones,16,M,4:1
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,startxi,2887,Raúl Jiménez,9,F,5:1
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,482605,Gilberto Mora,19,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,35690,Luis Chávez,24,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,2869,Edson Álvarez,4,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,291713,Armando González,14,F,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,2889,Alexis Vega,10,F,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,35769,Carlos Acevedo,12,G,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,2098,Guillermo Ochoa,13,G,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,2878,Jorge Sánchez,2,D,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,35970,Luis Romo,7,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,390002,Mateo Chávez,20,D,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,36111,César Huerta,21,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,313383,Obed Vargas,18,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,35576,Orbelín Pineda,17,M,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,36088,Guillermo Martínez,22,F,
+1489369,16,Mexico,4-1-4-1,27707,Javier Aguirre,substitute,94562,Santiago Giménez,11,F,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,3275,Ronwen Williams,1,G,1:1
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,46601,Khuliso Mudau,20,D,2:5
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,46458,Nkosinathi Sibisi,19,D,2:4
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,406752,Ime Okon,21,D,2:3
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,510799,Mbekezeli Mbokazi,14,D,2:2
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,46334,Aubrey Modiba,6,D,2:1
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,3287,Teboho Mokoena,4,M,3:3
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,158433,Siphephelo Sithole,13,M,3:2
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,268710,Jayden Adams,23,M,3:1
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,127429,Iqraam Rayners,15,F,4:2
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,startxi,98936,Lyle Foster,9,F,4:1
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,194430,Thalente Mbatha,5,M,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,3289,Themba Zwane,11,M,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,179893,Oswin Appollis,7,F,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,201354,Evidence Makgopa,17,F,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,46245,Ricardo Goss,22,G,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,46417,Sipho Chaine,16,G,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,163041,Bradley Cross,26,D,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,474630,Khulumani Ndamane,3,D,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,392387,Olwethu Makhanya,24,D,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,430078,Samukelo Kabini,18,D,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,330174,Tholo Thabang Matuludi,2,D,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,295977,Tshepang Moremi,8,F,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,414149,Relebohile Mofokeng,10,F,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,359561,Kamogelo Sebelebele,25,M,
+1489369,1531,South Africa,5-3-2,2883,Hugo Broos,substitute,354831,Thapelo Maseko,12,F,

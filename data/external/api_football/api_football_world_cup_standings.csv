@@ -1,0 +1,33 @@
+season,group,rank,team_id,team,points,goals_diff,form,description,played,wins,draws,losses,goals_for,goals_against
+2022,Group A,1,1118,Netherlands,7,4,WDW,Promotion - World Cup (Play Offs),3,2,1,0,5,1
+2022,Group A,2,13,Senegal,6,1,WWL,Promotion - World Cup (Play Offs),3,2,0,1,5,4
+2022,Group A,3,2382,Ecuador,4,1,LDW,,3,1,1,1,4,3
+2022,Group A,4,1569,Qatar,0,-6,LLL,,3,0,0,3,1,7
+2022,Group B,1,10,England,7,7,WDW,Promotion - World Cup (Play Offs),3,2,1,0,9,2
+2022,Group B,2,2384,USA,5,1,WDD,Promotion - World Cup (Play Offs),3,1,2,0,2,1
+2022,Group B,3,22,Iran,3,-3,LWL,,3,1,0,2,4,7
+2022,Group B,4,767,Wales,1,-5,LLD,,3,0,1,2,1,6
+2022,Group C,1,26,Argentina,6,3,WWL,Promotion - World Cup (Play Offs),3,2,0,1,5,2
+2022,Group C,2,24,Poland,4,0,LWD,Promotion - World Cup (Play Offs),3,1,1,1,2,2
+2022,Group C,3,16,Mexico,4,-1,WLD,,3,1,1,1,2,3
+2022,Group C,4,23,Saudi Arabia,3,-2,LLW,,3,1,0,2,3,5
+2022,Group D,1,2,France,6,3,LWW,Promotion - World Cup (Play Offs),3,2,0,1,6,3
+2022,Group D,2,20,Australia,6,-1,WWL,Promotion - World Cup (Play Offs),3,2,0,1,3,4
+2022,Group D,3,28,Tunisia,4,0,WLD,,3,1,1,1,1,1
+2022,Group D,4,21,Denmark,1,-2,LLD,,3,0,1,2,1,3
+2022,Group E,1,12,Japan,6,1,WLW,Promotion - World Cup (Play Offs),3,2,0,1,4,3
+2022,Group E,2,9,Spain,4,6,LDW,Promotion - World Cup (Play Offs),3,1,1,1,9,3
+2022,Group E,3,25,Germany,4,1,WDL,,3,1,1,1,6,5
+2022,Group E,4,29,Costa Rica,3,-8,LWL,,3,1,0,2,3,11
+2022,Group F,1,31,Morocco,7,3,WWD,Promotion - World Cup (Play Offs),3,2,1,0,4,1
+2022,Group F,2,3,Croatia,5,3,DWD,Promotion - World Cup (Play Offs),3,1,2,0,4,1
+2022,Group F,3,1,Belgium,4,-1,DLW,,3,1,1,1,1,2
+2022,Group F,4,5529,Canada,0,-5,LLL,,3,0,0,3,2,7
+2022,Group G,1,6,Brazil,6,2,LWW,Promotion - World Cup (Play Offs),3,2,0,1,3,1
+2022,Group G,2,15,Switzerland,6,1,WLW,Promotion - World Cup (Play Offs),3,2,0,1,4,3
+2022,Group G,3,1530,Cameroon,4,0,WDL,,3,1,1,1,4,4
+2022,Group G,4,14,Serbia,1,-3,LDL,,3,0,1,2,5,8
+2022,Group H,1,27,Portugal,6,2,LWW,Promotion - World Cup (Play Offs),3,2,0,1,6,4
+2022,Group H,2,17,South Korea,4,0,WLD,Promotion - World Cup (Play Offs),3,1,1,1,4,4
+2022,Group H,3,7,Uruguay,4,0,WLD,,3,1,1,1,2,2
+2022,Group H,4,1504,Ghana,3,-2,LWL,,3,1,0,2,5,7

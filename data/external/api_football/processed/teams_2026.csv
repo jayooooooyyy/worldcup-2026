@@ -1,0 +1,49 @@
+season,team_id,team,team_code,country,founded,national,logo,home_venue_id,home_venue_name,home_venue_city,home_venue_capacity,home_venue_surface
+2026,1,Belgium,BEL,Belgium,1895,True,https://media.api-sports.io/football/teams/1.png,795,King Baudouin Stadium,Brussels,50093,grass
+2026,2,France,FRA,France,1919,True,https://media.api-sports.io/football/teams/2.png,666,Groupama Stadium,Saint-Denis,80698,grass
+2026,3,Croatia,CRO,Croatia,1912,True,https://media.api-sports.io/football/teams/3.png,22430,Stadion Maksimir,Zagreb,25912,grass
+2026,5,Sweden,SWE,Sweden,1904,True,https://media.api-sports.io/football/teams/5.png,21411,Strawberry Arena,Solna,50653,grass
+2026,6,Brazil,BRA,Brazil,1914,True,https://media.api-sports.io/football/teams/6.png,11531,Maracanã,Rio de Janeiro,78838,grass
+2026,7,Uruguay,URU,Uruguay,1900,True,https://media.api-sports.io/football/teams/7.png,1624,Estadio Centenario,Montevideo,60235,grass
+2026,8,Colombia,COL,Colombia,1924,True,https://media.api-sports.io/football/teams/8.png,366,Estadio Metropolitano Roberto Meléndez,Barranquilla,46788,grass
+2026,9,Spain,ESP,Spain,1913,True,https://media.api-sports.io/football/teams/9.png,3989,Santiago Bernabéu,Madrid,83186,grass
+2026,10,England,ENG,England,1863,True,https://media.api-sports.io/football/teams/10.png,566,Wembley Stadium,London,90000,grass
+2026,11,Panama,PAN,Panama,1937,True,https://media.api-sports.io/football/teams/11.png,11535,Estadio Rommel Fernández,Panama City,32000,grass
+2026,12,Japan,JPN,Japan,1921,True,https://media.api-sports.io/football/teams/12.png,18623,Saitama Stadium 2002,Saitama,63700,grass
+2026,13,Senegal,SEN,Senegal,1960,True,https://media.api-sports.io/football/teams/13.png,22435,Stade Me Abdoulaye Wade,Diamniadio,50000,grass
+2026,15,Switzerland,SUI,Switzerland,1895,True,https://media.api-sports.io/football/teams/15.png,1543,St. Jakob-Park,Basel,38512,grass
+2026,16,Mexico,MEX,Mexico,1927,True,https://media.api-sports.io/football/teams/16.png,22432,Estadio Banorte,Mexico City,87000,grass
+2026,17,South Korea,KOR,South-Korea,1933,True,https://media.api-sports.io/football/teams/17.png,22429,Seoul World Cup Stadium,Seoul,66704,grass
+2026,20,Australia,AUS,Australia,1961,True,https://media.api-sports.io/football/teams/20.png,18601,Accor Stadium,Sydney,82000,grass
+2026,22,Iran,IRN,Iran,1920,True,https://media.api-sports.io/football/teams/22.png,22428,Azadi Stadium,Tehran,78116,grass
+2026,23,Saudi Arabia,KSA,Saudi-Arabia,1956,True,https://media.api-sports.io/football/teams/23.png,22434,King Fahd Sports City Stadium,Riyadh,68752,grass
+2026,25,Germany,GER,Germany,1900,True,https://media.api-sports.io/football/teams/25.png,12717,Signal Iduna Park,Dortmund,81365,grass
+2026,26,Argentina,ARG,Argentina,1893,True,https://media.api-sports.io/football/teams/26.png,46,Estadio Mâs Monumental,Buenos Aires,85018,grass
+2026,27,Portugal,POR,Portugal,1914,True,https://media.api-sports.io/football/teams/27.png,1293,Estádio da Luz,Lisbon,68100,grass
+2026,28,Tunisia,TUN,Tunisia,1957,True,https://media.api-sports.io/football/teams/28.png,21412,Stade Olympique Hammadi Agrebi,Radès,60000,grass
+2026,31,Morocco,MAR,Morocco,1955,True,https://media.api-sports.io/football/teams/31.png,2260,Stade Mohammed V,Casablanca,67000,artificial turf
+2026,32,Egypt,EGY,Egypt,1921,True,https://media.api-sports.io/football/teams/32.png,11492,Cairo International Stadium,Cairo,75000,grass
+2026,770,Czech Republic,CZE,Czech-Republic,1901,True,https://media.api-sports.io/football/teams/770.png,435,Fortuna Arena,Prague,19370,grass
+2026,775,Austria,AUT,Austria,1904,True,https://media.api-sports.io/football/teams/775.png,22797,Ernst-Happel-Stadion,Vienna,50865,grass
+2026,777,Türkiye,TUR,Turkey,1923,True,https://media.api-sports.io/football/teams/777.png,22441,Atatürk Olympic Stadium,Istanbul,75145,grass
+2026,1090,Norway,NOR,Norway,1902,True,https://media.api-sports.io/football/teams/1090.png,11603,Ullevaal Stadion,Oslo,27182,grass
+2026,1108,Scotland,SCO,Scotland,1873,True,https://media.api-sports.io/football/teams/1108.png,2617,Hampden Park,Glasgow,52500,grass
+2026,1113,Bosnia & Herzegovina,BIH,Bosnia,1992,True,https://media.api-sports.io/football/teams/1113.png,2186,Bilino Polje,Zenica,13812,grass
+2026,1118,Netherlands,NED,Netherlands,1889,True,https://media.api-sports.io/football/teams/1118.png,1143,Johan Cruijff ArenA,Amsterdam,55865,grass
+2026,1501,Ivory Coast,CIV,Ivory-Coast,1960,True,https://media.api-sports.io/football/teams/1501.png,411,Alassane Ouattara Stadium,Abidjan,60012,grass
+2026,1504,Ghana,GHA,Ghana,1957,True,https://media.api-sports.io/football/teams/1504.png,21410,Baba Yara Stadium,Kumasi,40528,grass
+2026,1508,Congo DR,CGO,Congo-DR,1919,True,https://media.api-sports.io/football/teams/1508.png,391,Stade des Martyrs,Kinshasa,80000,artificial turf
+2026,1531,South Africa,RSA,South-Africa,1991,True,https://media.api-sports.io/football/teams/1531.png,22436,FNB Stadium,Johannesburg,94736,grass
+2026,1532,Algeria,ALG,Algeria,1962,True,https://media.api-sports.io/football/teams/1532.png,16,Stade Nelson Mandela,Algiers,40784,grass
+2026,1533,Cape Verde Islands,CPV,Cape-Verde-Islands,1982,True,https://media.api-sports.io/football/teams/1533.png,314,Estádio Nacional de Cabo Verde,Praia,15000,artificial turf
+2026,1548,Jordan,JOR,Jordan,1949,True,https://media.api-sports.io/football/teams/1548.png,988,Amman International Stadium,ʿAmmān (Amman),25000,grass
+2026,1567,Iraq,IRQ,Iraq,1948,True,https://media.api-sports.io/football/teams/1567.png,20704,Basra International Stadium,Basra,65000,grass
+2026,1568,Uzbekistan,UZB,Uzbekistan,1946,True,https://media.api-sports.io/football/teams/1568.png,19547,Milliy Stadium,Tashkent,34000,grass
+2026,1569,Qatar,QAT,Qatar,1960,True,https://media.api-sports.io/football/teams/1569.png,22430,Khalifa International Stadium,Doha,45857,grass
+2026,2380,Paraguay,PAR,Paraguay,1906,True,https://media.api-sports.io/football/teams/2380.png,1213,Estadio Defensores del Chaco,Asunción,42354,grass
+2026,2382,Ecuador,ECU,Ecuador,1925,True,https://media.api-sports.io/football/teams/2382.png,471,Estadio Rodrigo Paz Delgado,Quito,41575,grass
+2026,2384,USA,USA,USA,1913,True,https://media.api-sports.io/football/teams/2384.png,19357,AT&T Stadium,Arlington,80000,grass
+2026,2386,Haiti,HAI,Haiti,1904,True,https://media.api-sports.io/football/teams/2386.png,22425,Stade Sylvio Cator,Port-au-Prince,15000,grass
+2026,4673,New Zealand,NZL,New-Zealand,1891,True,https://media.api-sports.io/football/teams/4673.png,22451,Eden Park,Auckland,50000,grass
+2026,5529,Canada,CAN,Canada,1912,True,https://media.api-sports.io/football/teams/5529.png,312,BMO Field,Toronto,45736,grass
+2026,5530,Curaçao,CUR,Curacao,1921,True,https://media.api-sports.io/football/teams/5530.png,11918,Ergilio Hato Stadium,Willemstad,10000,grass

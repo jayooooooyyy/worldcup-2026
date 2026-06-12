@@ -1,0 +1,65 @@
+season,fixture_id,date_utc,timestamp,round,venue_name,venue_city,home_team_id,home_team,away_team_id,away_team,home_goals,away_goals,home_winner,away_winner,status
+2022,855736,2022-11-20T16:00:00+00:00,1668960000,Group Stage - 1,Al Bayt Stadium,Al Khor,1569,Qatar,2382,Ecuador,0,2,False,True,FT
+2022,855735,2022-11-21T13:00:00+00:00,1669035600,Group Stage - 1,Khalifa International Stadium,Ar-Rayyan,10,England,22,Iran,6,2,True,False,FT
+2022,855734,2022-11-21T16:00:00+00:00,1669046400,Group Stage - 1,Al Thumama Stadium,Doha,13,Senegal,1118,Netherlands,0,2,False,True,FT
+2022,866681,2022-11-21T19:00:00+00:00,1669057200,Group Stage - 1,Ahmad bin Ali Stadium,Al-Rayyan,2384,USA,767,Wales,1,1,,,FT
+2022,855737,2022-11-22T10:00:00+00:00,1669111200,Group Stage - 1,Lusail Iconic Stadium,Lusail,26,Argentina,23,Saudi Arabia,1,2,False,True,FT
+2022,855738,2022-11-22T13:00:00+00:00,1669122000,Group Stage - 1,Education City Stadium,Ar-Rayyan,21,Denmark,28,Tunisia,0,0,,,FT
+2022,855739,2022-11-22T16:00:00+00:00,1669132800,Group Stage - 1,Stadium 974,Doha,16,Mexico,24,Poland,0,0,,,FT
+2022,871850,2022-11-22T19:00:00+00:00,1669143600,Group Stage - 1,Al Janoub Stadium,Al Wakrah,2,France,20,Australia,4,1,True,False,FT
+2022,855740,2022-11-23T10:00:00+00:00,1669197600,Group Stage - 1,Al Bayt Stadium,Al Khor,31,Morocco,3,Croatia,0,0,,,FT
+2022,855741,2022-11-23T13:00:00+00:00,1669208400,Group Stage - 1,Khalifa International Stadium,Ar-Rayyan,25,Germany,12,Japan,1,2,False,True,FT
+2022,871851,2022-11-23T16:00:00+00:00,1669219200,Group Stage - 1,Al Thumama Stadium,Doha,9,Spain,29,Costa Rica,7,0,True,False,FT
+2022,855742,2022-11-23T19:00:00+00:00,1669230000,Group Stage - 1,Ahmad bin Ali Stadium,Al-Rayyan,1,Belgium,5529,Canada,1,0,True,False,FT
+2022,855743,2022-11-24T10:00:00+00:00,1669284000,Group Stage - 1,Al Janoub Stadium,Al Wakrah,15,Switzerland,1530,Cameroon,1,0,True,False,FT
+2022,855744,2022-11-24T13:00:00+00:00,1669294800,Group Stage - 1,Education City Stadium,Ar-Rayyan,7,Uruguay,17,South Korea,0,0,,,FT
+2022,855745,2022-11-24T16:00:00+00:00,1669305600,Group Stage - 1,Stadium 974,Doha,27,Portugal,1504,Ghana,3,2,True,False,FT
+2022,855746,2022-11-24T19:00:00+00:00,1669316400,Group Stage - 1,Lusail Iconic Stadium,Lusail,6,Brazil,14,Serbia,2,0,True,False,FT
+2022,866682,2022-11-25T10:00:00+00:00,1669370400,Group Stage - 2,Ahmad bin Ali Stadium,Al-Rayyan,767,Wales,22,Iran,0,2,False,True,FT
+2022,855747,2022-11-25T13:00:00+00:00,1669381200,Group Stage - 2,Al Thumama Stadium,Doha,1569,Qatar,13,Senegal,1,3,False,True,FT
+2022,855748,2022-11-25T16:00:00+00:00,1669392000,Group Stage - 2,Khalifa International Stadium,Ar-Rayyan,1118,Netherlands,2382,Ecuador,1,1,,,FT
+2022,855749,2022-11-25T19:00:00+00:00,1669402800,Group Stage - 2,Al Bayt Stadium,Al Khor,10,England,2384,USA,0,0,,,FT
+2022,871852,2022-11-26T10:00:00+00:00,1669456800,Group Stage - 2,Al Janoub Stadium,Al Wakrah,28,Tunisia,20,Australia,0,1,False,True,FT
+2022,855750,2022-11-26T13:00:00+00:00,1669467600,Group Stage - 2,Education City Stadium,Ar-Rayyan,24,Poland,23,Saudi Arabia,2,0,True,False,FT
+2022,855751,2022-11-26T16:00:00+00:00,1669478400,Group Stage - 2,Stadium 974,Doha,2,France,21,Denmark,2,1,True,False,FT
+2022,855752,2022-11-26T19:00:00+00:00,1669489200,Group Stage - 2,Lusail Iconic Stadium,Lusail,26,Argentina,16,Mexico,2,0,True,False,FT
+2022,871853,2022-11-27T10:00:00+00:00,1669543200,Group Stage - 2,Ahmad bin Ali Stadium,Al-Rayyan,12,Japan,29,Costa Rica,0,1,False,True,FT
+2022,855753,2022-11-27T13:00:00+00:00,1669554000,Group Stage - 2,Al Thumama Stadium,Doha,1,Belgium,31,Morocco,0,2,False,True,FT
+2022,855754,2022-11-27T16:00:00+00:00,1669564800,Group Stage - 2,Khalifa International Stadium,Ar-Rayyan,3,Croatia,5529,Canada,4,1,True,False,FT
+2022,855755,2022-11-27T19:00:00+00:00,1669575600,Group Stage - 2,Al Bayt Stadium,Al Khor,9,Spain,25,Germany,1,1,,,FT
+2022,855756,2022-11-28T10:00:00+00:00,1669629600,Group Stage - 2,Al Janoub Stadium,Al Wakrah,1530,Cameroon,14,Serbia,3,3,,,FT
+2022,855757,2022-11-28T13:00:00+00:00,1669640400,Group Stage - 2,Education City Stadium,Ar-Rayyan,17,South Korea,1504,Ghana,2,3,False,True,FT
+2022,855758,2022-11-28T16:00:00+00:00,1669651200,Group Stage - 2,Stadium 974,Doha,6,Brazil,15,Switzerland,1,0,True,False,FT
+2022,855759,2022-11-28T19:00:00+00:00,1669662000,Group Stage - 2,Lusail Iconic Stadium,Lusail,27,Portugal,7,Uruguay,2,0,True,False,FT
+2022,855760,2022-11-29T15:00:00+00:00,1669734000,Group Stage - 3,Al Bayt Stadium,Al Khor,1118,Netherlands,1569,Qatar,2,0,True,False,FT
+2022,855761,2022-11-29T15:00:00+00:00,1669734000,Group Stage - 3,Khalifa International Stadium,Ar-Rayyan,2382,Ecuador,13,Senegal,1,2,False,True,FT
+2022,855762,2022-11-29T19:00:00+00:00,1669748400,Group Stage - 3,Al Thumama Stadium,Doha,22,Iran,2384,USA,0,1,False,True,FT
+2022,866683,2022-11-29T19:00:00+00:00,1669748400,Group Stage - 3,Ahmad bin Ali Stadium,Al-Rayyan,767,Wales,10,England,0,3,False,True,FT
+2022,871854,2022-11-30T15:00:00+00:00,1669820400,Group Stage - 3,Al Janoub Stadium,Al Wakrah,20,Australia,21,Denmark,1,0,True,False,FT
+2022,855763,2022-11-30T15:00:00+00:00,1669820400,Group Stage - 3,Education City Stadium,Ar-Rayyan,28,Tunisia,2,France,1,0,True,False,FT
+2022,855765,2022-11-30T19:00:00+00:00,1669834800,Group Stage - 3,Lusail Iconic Stadium,Lusail,23,Saudi Arabia,16,Mexico,1,2,False,True,FT
+2022,855764,2022-11-30T19:00:00+00:00,1669834800,Group Stage - 3,Stadium 974,Doha,24,Poland,26,Argentina,0,2,False,True,FT
+2022,855766,2022-12-01T15:00:00+00:00,1669906800,Group Stage - 3,Ahmad bin Ali Stadium,Al-Rayyan,3,Croatia,1,Belgium,0,0,,,FT
+2022,855767,2022-12-01T15:00:00+00:00,1669906800,Group Stage - 3,Al Thumama Stadium,Doha,5529,Canada,31,Morocco,1,2,False,True,FT
+2022,855768,2022-12-01T19:00:00+00:00,1669921200,Group Stage - 3,Khalifa International Stadium,Ar-Rayyan,12,Japan,9,Spain,2,1,True,False,FT
+2022,871855,2022-12-01T19:00:00+00:00,1669921200,Group Stage - 3,Al Bayt Stadium,Al Khor,29,Costa Rica,25,Germany,2,4,False,True,FT
+2022,855769,2022-12-02T15:00:00+00:00,1669993200,Group Stage - 3,Education City Stadium,Ar-Rayyan,17,South Korea,27,Portugal,2,1,True,False,FT
+2022,855770,2022-12-02T15:00:00+00:00,1669993200,Group Stage - 3,Al Janoub Stadium,Al Wakrah,1504,Ghana,7,Uruguay,0,2,False,True,FT
+2022,855772,2022-12-02T19:00:00+00:00,1670007600,Group Stage - 3,Stadium 974,Doha,14,Serbia,15,Switzerland,2,3,False,True,FT
+2022,855771,2022-12-02T19:00:00+00:00,1670007600,Group Stage - 3,Lusail Iconic Stadium,Lusail,1530,Cameroon,6,Brazil,1,0,True,False,FT
+2022,976533,2022-12-03T15:00:00+00:00,1670079600,Round of 16,Khalifa International Stadium,Ar-Rayyan,1118,Netherlands,2384,USA,3,1,True,False,FT
+2022,976642,2022-12-03T19:00:00+00:00,1670094000,Round of 16,Ahmad bin Ali Stadium,Al-Rayyan,26,Argentina,20,Australia,2,1,True,False,FT
+2022,976643,2022-12-04T15:00:00+00:00,1670166000,Round of 16,Al Thumama Stadium,Doha,2,France,24,Poland,3,1,True,False,FT
+2022,976534,2022-12-04T19:00:00+00:00,1670180400,Round of 16,Al Bayt Stadium,Al Khor,10,England,13,Senegal,3,0,True,False,FT
+2022,977344,2022-12-05T15:00:00+00:00,1670252400,Round of 16,Al Janoub Stadium,Al Wakrah,12,Japan,3,Croatia,1,1,False,True,PEN
+2022,977705,2022-12-05T19:00:00+00:00,1670266800,Round of 16,Stadium 974,Doha,6,Brazil,17,South Korea,4,1,True,False,FT
+2022,977345,2022-12-06T15:00:00+00:00,1670338800,Round of 16,Education City Stadium,Ar-Rayyan,31,Morocco,9,Spain,0,0,True,False,PEN
+2022,977706,2022-12-06T19:00:00+00:00,1670353200,Round of 16,Lusail Iconic Stadium,Lusail,27,Portugal,15,Switzerland,6,1,True,False,FT
+2022,978072,2022-12-09T15:00:00+00:00,1670598000,Quarter-finals,Education City Stadium,Ar-Rayyan,3,Croatia,6,Brazil,1,1,True,False,PEN
+2022,977794,2022-12-09T19:00:00+00:00,1670612400,Quarter-finals,Lusail Iconic Stadium,Lusail,1118,Netherlands,26,Argentina,2,2,False,True,PEN
+2022,978088,2022-12-10T15:00:00+00:00,1670684400,Quarter-finals,Al Thumama Stadium,Doha,31,Morocco,27,Portugal,1,0,True,False,FT
+2022,978036,2022-12-10T19:00:00+00:00,1670698800,Quarter-finals,Al Bayt Stadium,Al Khor,10,England,2,France,1,2,False,True,FT
+2022,978279,2022-12-13T19:00:00+00:00,1670958000,Semi-finals,Lusail Iconic Stadium,Lusail,26,Argentina,3,Croatia,3,0,True,False,FT
+2022,978488,2022-12-14T19:00:00+00:00,1671044400,Semi-finals,Al Bayt Stadium,Al Khor,2,France,31,Morocco,2,0,True,False,FT
+2022,979138,2022-12-17T15:00:00+00:00,1671289200,3rd Place Final,Khalifa International Stadium,Ar-Rayyan,3,Croatia,31,Morocco,2,1,True,False,FT
+2022,979139,2022-12-18T15:00:00+00:00,1671375600,Final,Lusail Iconic Stadium,Lusail,26,Argentina,2,France,3,3,True,False,PEN

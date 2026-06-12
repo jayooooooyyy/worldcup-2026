@@ -1,0 +1,540 @@
+{
+  "get": "fixtures/lineups",
+  "parameters": {
+    "fixture": "1538999"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "colors": {
+          "player": {
+            "primary": "f8373e",
+            "number": "ffffff",
+            "border": "f8373e"
+          },
+          "goalkeeper": {
+            "primary": "3da071",
+            "number": "ffffff",
+            "border": "3da071"
+          }
+        }
+      },
+      "formation": "3-4-2-1",
+      "startXI": [
+        {
+          "player": {
+            "id": 2892,
+            "name": "Kim Seung-gyu",
+            "number": 1,
+            "pos": "G",
+            "grid": "1:1"
+          }
+        },
+        {
+          "player": {
+            "id": 237218,
+            "name": "Han-Beom Lee",
+            "number": 2,
+            "pos": "D",
+            "grid": "2:3"
+          }
+        },
+        {
+          "player": {
+            "id": 2897,
+            "name": "Kim Min-jae",
+            "number": 4,
+            "pos": "D",
+            "grid": "2:2"
+          }
+        },
+        {
+          "player": {
+            "id": 304951,
+            "name": "Gi-Hyuk Lee",
+            "number": 3,
+            "pos": "D",
+            "grid": "2:1"
+          }
+        },
+        {
+          "player": {
+            "id": 197985,
+            "name": "Young-woo Seol",
+            "number": 22,
+            "pos": "M",
+            "grid": "3:4"
+          }
+        },
+        {
+          "player": {
+            "id": 2901,
+            "name": "Hwang In-beom",
+            "number": 6,
+            "pos": "M",
+            "grid": "3:3"
+          }
+        },
+        {
+          "player": {
+            "id": 2909,
+            "name": "Seung Ho Paik",
+            "number": 8,
+            "pos": "M",
+            "grid": "3:2"
+          }
+        },
+        {
+          "player": {
+            "id": 237220,
+            "name": "Lee Tae-seok",
+            "number": 13,
+            "pos": "M",
+            "grid": "3:1"
+          }
+        },
+        {
+          "player": {
+            "id": 927,
+            "name": "Kang-in Lee",
+            "number": 19,
+            "pos": "F",
+            "grid": "4:2"
+          }
+        },
+        {
+          "player": {
+            "id": 2906,
+            "name": "Jae-sung Lee",
+            "number": 10,
+            "pos": "F",
+            "grid": "4:1"
+          }
+        },
+        {
+          "player": {
+            "id": 186,
+            "name": "Son Heung-min",
+            "number": 7,
+            "pos": "F",
+            "grid": "5:1"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 2890,
+            "name": "Jo Hyeonwoo",
+            "number": 21,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 34374,
+            "name": "Song Bum-keun",
+            "number": 12,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 2912,
+            "name": "Kim Moon-hwan",
+            "number": 15,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 357209,
+            "name": "Wi-je Cho",
+            "number": 14,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 34418,
+            "name": "Kim Tae-hyeon",
+            "number": 5,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 34431,
+            "name": "Dong-gyeong Lee",
+            "number": 26,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 280358,
+            "name": "Jens Castrop",
+            "number": 23,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 237050,
+            "name": "Ji-sung Eom",
+            "number": 25,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 34168,
+            "name": "Jin-gyu Kim",
+            "number": 24,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 99211,
+            "name": "Jin-seob Park",
+            "number": 16,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 357286,
+            "name": "Jun-Ho Bae",
+            "number": 17,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 34211,
+            "name": "Gue-sung Cho",
+            "number": 9,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 24888,
+            "name": "Hwang Hee-chan",
+            "number": 11,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 34710,
+            "name": "Hyeon-gyu Oh",
+            "number": 18,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 304958,
+            "name": "Yang Hyun-Jun",
+            "number": 20,
+            "pos": "F",
+            "grid": null
+          }
+        }
+      ],
+      "coach": {
+        "id": 10461,
+        "name": "Myung-Bo Hong",
+        "photo": "https://media.api-sports.io/football/coachs/10461.png"
+      }
+    },
+    {
+      "team": {
+        "id": 770,
+        "name": "Czech Republic",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "colors": {
+          "player": {
+            "primary": "fefefe",
+            "number": "a18045",
+            "border": "fefefe"
+          },
+          "goalkeeper": {
+            "primary": "bbe6fb",
+            "number": "000000",
+            "border": "bbe6fb"
+          }
+        }
+      },
+      "formation": "3-4-2-1",
+      "startXI": [
+        {
+          "player": {
+            "id": 138804,
+            "name": "Matěj Kovář",
+            "number": 1,
+            "pos": "G",
+            "grid": "1:1"
+          }
+        },
+        {
+          "player": {
+            "id": 337740,
+            "name": "Štěpán Chaloupek",
+            "number": 6,
+            "pos": "D",
+            "grid": "2:3"
+          }
+        },
+        {
+          "player": {
+            "id": 162964,
+            "name": "Robin Hranáč",
+            "number": 4,
+            "pos": "D",
+            "grid": "2:2"
+          }
+        },
+        {
+          "player": {
+            "id": 66407,
+            "name": "Ladislav Krejčí",
+            "number": 7,
+            "pos": "D",
+            "grid": "2:1"
+          }
+        },
+        {
+          "player": {
+            "id": 1231,
+            "name": "Vladimír Coufal",
+            "number": 5,
+            "pos": "M",
+            "grid": "3:4"
+          }
+        },
+        {
+          "player": {
+            "id": 1243,
+            "name": "Tomáš Souček",
+            "number": 22,
+            "pos": "M",
+            "grid": "3:3"
+          }
+        },
+        {
+          "player": {
+            "id": 386837,
+            "name": "Alexandr Sojka",
+            "number": 24,
+            "pos": "M",
+            "grid": "3:2"
+          }
+        },
+        {
+          "player": {
+            "id": 1237,
+            "name": "Jaroslav Zelený",
+            "number": 20,
+            "pos": "M",
+            "grid": "3:1"
+          }
+        },
+        {
+          "player": {
+            "id": 66353,
+            "name": "Lukáš Provod",
+            "number": 17,
+            "pos": "F",
+            "grid": "4:2"
+          }
+        },
+        {
+          "player": {
+            "id": 66387,
+            "name": "Pavel Šulc",
+            "number": 15,
+            "pos": "F",
+            "grid": "4:1"
+          }
+        },
+        {
+          "player": {
+            "id": 794,
+            "name": "Patrik Schick",
+            "number": 10,
+            "pos": "F",
+            "grid": "5:1"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 66347,
+            "name": "Jindřich Staněk",
+            "number": 16,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 269349,
+            "name": "Lukáš Horníček",
+            "number": 23,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 128793,
+            "name": "David Jurásek",
+            "number": 14,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 128772,
+            "name": "David Zima",
+            "number": 2,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 2252,
+            "name": "Tomáš Holeš",
+            "number": 3,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 241,
+            "name": "Michal Sadílek",
+            "number": 18,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 66214,
+            "name": "David Douděra",
+            "number": 21,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 290212,
+            "name": "Denis Višinský",
+            "number": 26,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 555437,
+            "name": "Hugo Sochurek",
+            "number": 25,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 162194,
+            "name": "Lukáš Červ",
+            "number": 12,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 25348,
+            "name": "Vladimír Darida",
+            "number": 8,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 66019,
+            "name": "Adam Hložek",
+            "number": 9,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 66340,
+            "name": "Jan Kuchta",
+            "number": 11,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 66275,
+            "name": "Mojmír Chytil",
+            "number": 13,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 818,
+            "name": "Tomáš Chorý",
+            "number": 19,
+            "pos": "F",
+            "grid": null
+          }
+        }
+      ],
+      "coach": {
+        "id": 28720,
+        "name": "Miroslav Koubek",
+        "photo": "https://media.api-sports.io/football/coachs/28720.png"
+      }
+    }
+  ]
+}

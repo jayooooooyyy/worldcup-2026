@@ -1,0 +1,33 @@
+season,team_id,team,team_code,country,founded,national,home_venue_name,home_venue_city,home_venue_capacity,home_venue_surface
+2022,1,Belgium,BEL,Belgium,1895,True,King Baudouin Stadium,Brussels,50093,grass
+2022,2,France,FRA,France,1919,True,Groupama Stadium,Saint-Denis,80698,grass
+2022,3,Croatia,CRO,Croatia,1912,True,Stadion Maksimir,Zagreb,25912,grass
+2022,6,Brazil,BRA,Brazil,1914,True,Maracanã,Rio de Janeiro,78838,grass
+2022,7,Uruguay,URU,Uruguay,1900,True,Estadio Centenario,Montevideo,60235,grass
+2022,9,Spain,ESP,Spain,1913,True,Santiago Bernabéu,Madrid,83186,grass
+2022,10,England,ENG,England,1863,True,Wembley Stadium,London,90000,grass
+2022,12,Japan,JPN,Japan,1921,True,Saitama Stadium 2002,Saitama,63700,grass
+2022,13,Senegal,SEN,Senegal,1960,True,Stade Me Abdoulaye Wade,Diamniadio,50000,grass
+2022,14,Serbia,SER,Serbia,1919,True,Stadion Rajko Mitić,Beograd,51862,grass
+2022,15,Switzerland,SUI,Switzerland,1895,True,St. Jakob-Park,Basel,38512,grass
+2022,16,Mexico,MEX,Mexico,1927,True,Estadio Banorte,Mexico City,87000,grass
+2022,17,South Korea,KOR,South-Korea,1933,True,Seoul World Cup Stadium,Seoul,66704,grass
+2022,20,Australia,AUS,Australia,1961,True,Accor Stadium,Sydney,82000,grass
+2022,21,Denmark,DEN,Denmark,1889,True,Nature Energy Park,Odense,15790,grass
+2022,22,Iran,IRN,Iran,1920,True,Azadi Stadium,Tehran,78116,grass
+2022,23,Saudi Arabia,KSA,Saudi-Arabia,1956,True,King Fahd Sports City Stadium,Riyadh,68752,grass
+2022,24,Poland,POL,Poland,1919,True,Stadion Śląski,Chorzów,55211,grass
+2022,25,Germany,GER,Germany,1900,True,Signal Iduna Park,Dortmund,81365,grass
+2022,26,Argentina,ARG,Argentina,1893,True,Estadio Mâs Monumental,Buenos Aires,85018,grass
+2022,27,Portugal,POR,Portugal,1914,True,Estádio da Luz,Lisbon,68100,grass
+2022,28,Tunisia,TUN,Tunisia,1957,True,Stade Olympique Hammadi Agrebi,Radès,60000,grass
+2022,29,Costa Rica,COS,Costa-Rica,1921,True,Snapdragon Stadium,"San Diego, California",35000,grass
+2022,31,Morocco,MAR,Morocco,1955,True,Stade Mohammed V,Casablanca,67000,artificial turf
+2022,767,Wales,WAL,Wales,1876,True,Swansea.com Stadium,Swansea,21028,grass
+2022,1118,Netherlands,NED,Netherlands,1889,True,Johan Cruijff ArenA,Amsterdam,55865,grass
+2022,1504,Ghana,GHA,Ghana,1957,True,Baba Yara Stadium,Kumasi,40528,grass
+2022,1530,Cameroon,CAM,Cameroon,1959,True,Stade Omnisports de Bafoussam,Bafoussam,20000,grass
+2022,1569,Qatar,QAT,Qatar,1960,True,Khalifa International Stadium,Doha,45857,grass
+2022,2382,Ecuador,ECU,Ecuador,1925,True,Estadio Rodrigo Paz Delgado,Quito,41575,grass
+2022,2384,USA,USA,USA,1913,True,AT&T Stadium,Arlington,80000,grass
+2022,5529,Canada,CAN,Canada,1912,True,BMO Field,Toronto,45736,grass

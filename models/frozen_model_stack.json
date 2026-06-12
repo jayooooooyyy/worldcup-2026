@@ -1,0 +1,15 @@
+{
+  "frozen_at": "2026-06-11",
+  "winner_model": {
+    "version": "v4_elo_ensemble_calibrated_v1",
+    "purpose": "winner_favorite_pick",
+    "model_file": "models/match_result_v4_elo_ensemble_calibrated.joblib"
+  },
+  "probability_model": {
+    "version": "calibrated_v3_floor_010_T1.2",
+    "purpose": "probability_display_and_fair_odds",
+    "config_file": "models/calibrated_v3_probability_config.json"
+  },
+  "dashboard_input": "data/processed/world_cup_2026_predictions_final.csv",
+  "note": "Draw is treated as a risk indicator, not as the final winner pick."
+}

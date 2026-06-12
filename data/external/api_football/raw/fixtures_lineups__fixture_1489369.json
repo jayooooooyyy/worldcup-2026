@@ -1,0 +1,540 @@
+{
+  "get": "fixtures/lineups",
+  "parameters": {
+    "fixture": "1489369"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "colors": {
+          "player": {
+            "primary": "298b77",
+            "number": "ffffff",
+            "border": "298b77"
+          },
+          "goalkeeper": {
+            "primary": "d54882",
+            "number": "ebebeb",
+            "border": "d54882"
+          }
+        }
+      },
+      "formation": "4-1-4-1",
+      "startXI": [
+        {
+          "player": {
+            "id": 270774,
+            "name": "Raúl Rangel",
+            "number": 1,
+            "pos": "G",
+            "grid": "1:1"
+          }
+        },
+        {
+          "player": {
+            "id": 127227,
+            "name": "Israel Reyes",
+            "number": 15,
+            "pos": "D",
+            "grid": "2:4"
+          }
+        },
+        {
+          "player": {
+            "id": 2873,
+            "name": "César Montes",
+            "number": 3,
+            "pos": "D",
+            "grid": "2:3"
+          }
+        },
+        {
+          "player": {
+            "id": 35544,
+            "name": "Johan Vásquez",
+            "number": 5,
+            "pos": "D",
+            "grid": "2:2"
+          }
+        },
+        {
+          "player": {
+            "id": 2881,
+            "name": "Jesús Gallardo",
+            "number": 23,
+            "pos": "D",
+            "grid": "2:1"
+          }
+        },
+        {
+          "player": {
+            "id": 266345,
+            "name": "Erik Lira",
+            "number": 6,
+            "pos": "M",
+            "grid": "3:1"
+          }
+        },
+        {
+          "player": {
+            "id": 2879,
+            "name": "Roberto Alvarado",
+            "number": 25,
+            "pos": "M",
+            "grid": "4:4"
+          }
+        },
+        {
+          "player": {
+            "id": 212233,
+            "name": "Brian Gutiérrez",
+            "number": 26,
+            "pos": "M",
+            "grid": "4:3"
+          }
+        },
+        {
+          "player": {
+            "id": 750,
+            "name": "Álvaro Fidalgo",
+            "number": 8,
+            "pos": "M",
+            "grid": "4:2"
+          }
+        },
+        {
+          "player": {
+            "id": 35532,
+            "name": "Julián Quiñones",
+            "number": 16,
+            "pos": "M",
+            "grid": "4:1"
+          }
+        },
+        {
+          "player": {
+            "id": 2887,
+            "name": "Raúl Jiménez",
+            "number": 9,
+            "pos": "F",
+            "grid": "5:1"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 482605,
+            "name": "Gilberto Mora",
+            "number": 19,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 35690,
+            "name": "Luis Chávez",
+            "number": 24,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 2869,
+            "name": "Edson Álvarez",
+            "number": 4,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 291713,
+            "name": "Armando González",
+            "number": 14,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 2889,
+            "name": "Alexis Vega",
+            "number": 10,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 35769,
+            "name": "Carlos Acevedo",
+            "number": 12,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 2098,
+            "name": "Guillermo Ochoa",
+            "number": 13,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 2878,
+            "name": "Jorge Sánchez",
+            "number": 2,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 35970,
+            "name": "Luis Romo",
+            "number": 7,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 390002,
+            "name": "Mateo Chávez",
+            "number": 20,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 36111,
+            "name": "César Huerta",
+            "number": 21,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 313383,
+            "name": "Obed Vargas",
+            "number": 18,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 35576,
+            "name": "Orbelín Pineda",
+            "number": 17,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 36088,
+            "name": "Guillermo Martínez",
+            "number": 22,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 94562,
+            "name": "Santiago Giménez",
+            "number": 11,
+            "pos": "F",
+            "grid": null
+          }
+        }
+      ],
+      "coach": {
+        "id": 27707,
+        "name": "Javier Aguirre",
+        "photo": "https://media.api-sports.io/football/coachs/27707.png"
+      }
+    },
+    {
+      "team": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "colors": {
+          "player": {
+            "primary": "fdd301",
+            "number": "006600",
+            "border": "fdd301"
+          },
+          "goalkeeper": {
+            "primary": "f4c589",
+            "number": "ffffff",
+            "border": "f4c589"
+          }
+        }
+      },
+      "formation": "5-3-2",
+      "startXI": [
+        {
+          "player": {
+            "id": 3275,
+            "name": "Ronwen Williams",
+            "number": 1,
+            "pos": "G",
+            "grid": "1:1"
+          }
+        },
+        {
+          "player": {
+            "id": 46601,
+            "name": "Khuliso Mudau",
+            "number": 20,
+            "pos": "D",
+            "grid": "2:5"
+          }
+        },
+        {
+          "player": {
+            "id": 46458,
+            "name": "Nkosinathi Sibisi",
+            "number": 19,
+            "pos": "D",
+            "grid": "2:4"
+          }
+        },
+        {
+          "player": {
+            "id": 406752,
+            "name": "Ime Okon",
+            "number": 21,
+            "pos": "D",
+            "grid": "2:3"
+          }
+        },
+        {
+          "player": {
+            "id": 510799,
+            "name": "Mbekezeli Mbokazi",
+            "number": 14,
+            "pos": "D",
+            "grid": "2:2"
+          }
+        },
+        {
+          "player": {
+            "id": 46334,
+            "name": "Aubrey Modiba",
+            "number": 6,
+            "pos": "D",
+            "grid": "2:1"
+          }
+        },
+        {
+          "player": {
+            "id": 3287,
+            "name": "Teboho Mokoena",
+            "number": 4,
+            "pos": "M",
+            "grid": "3:3"
+          }
+        },
+        {
+          "player": {
+            "id": 158433,
+            "name": "Siphephelo Sithole",
+            "number": 13,
+            "pos": "M",
+            "grid": "3:2"
+          }
+        },
+        {
+          "player": {
+            "id": 268710,
+            "name": "Jayden Adams",
+            "number": 23,
+            "pos": "M",
+            "grid": "3:1"
+          }
+        },
+        {
+          "player": {
+            "id": 127429,
+            "name": "Iqraam Rayners",
+            "number": 15,
+            "pos": "F",
+            "grid": "4:2"
+          }
+        },
+        {
+          "player": {
+            "id": 98936,
+            "name": "Lyle Foster",
+            "number": 9,
+            "pos": "F",
+            "grid": "4:1"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 194430,
+            "name": "Thalente Mbatha",
+            "number": 5,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 3289,
+            "name": "Themba Zwane",
+            "number": 11,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 179893,
+            "name": "Oswin Appollis",
+            "number": 7,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 201354,
+            "name": "Evidence Makgopa",
+            "number": 17,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 46245,
+            "name": "Ricardo Goss",
+            "number": 22,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 46417,
+            "name": "Sipho Chaine",
+            "number": 16,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 163041,
+            "name": "Bradley Cross",
+            "number": 26,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 474630,
+            "name": "Khulumani Ndamane",
+            "number": 3,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 392387,
+            "name": "Olwethu Makhanya",
+            "number": 24,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 430078,
+            "name": "Samukelo Kabini",
+            "number": 18,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 330174,
+            "name": "Tholo Thabang Matuludi",
+            "number": 2,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 295977,
+            "name": "Tshepang Moremi",
+            "number": 8,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 414149,
+            "name": "Relebohile Mofokeng",
+            "number": 10,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 359561,
+            "name": "Kamogelo Sebelebele",
+            "number": 25,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 354831,
+            "name": "Thapelo Maseko",
+            "number": 12,
+            "pos": "F",
+            "grid": null
+          }
+        }
+      ],
+      "coach": {
+        "id": 2883,
+        "name": "Hugo Broos",
+        "photo": "https://media.api-sports.io/football/coachs/2883.png"
+      }
+    }
+  ]
+}

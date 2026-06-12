@@ -1,0 +1,61 @@
+season,league_id,league,group,rank,team_id,team,points,goals_diff,form,description,played,wins,draws,losses,goals_for,goals_against,updated
+2026,1,World Cup,Group Stage - Group A,1,16,Mexico,3,2,W,Advancing to the Round of 32,1,1,0,0,2,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group A,2,17,South Korea,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group A,3,770,Czech Republic,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group A,4,1531,South Africa,0,-2,L,,1,0,0,1,0,2,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group B,1,5529,Canada,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group B,2,1113,Bosnia & Herzegovina,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group B,3,1569,Qatar,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group B,4,15,Switzerland,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group C,1,6,Brazil,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group C,2,31,Morocco,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group C,3,2386,Haiti,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group C,4,1108,Scotland,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group D,1,2384,USA,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group D,2,2380,Paraguay,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group D,3,20,Australia,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group D,4,777,Türkiye,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group E,1,25,Germany,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group E,2,5530,Curaçao,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group E,3,1501,Ivory Coast,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group E,4,2382,Ecuador,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group F,1,1118,Netherlands,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group F,2,12,Japan,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group F,3,5,Sweden,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group F,4,28,Tunisia,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group G,1,1,Belgium,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group G,2,32,Egypt,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group G,3,22,Iran,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group G,4,4673,New Zealand,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group H,1,9,Spain,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group H,2,1533,Cape Verde Islands,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group H,3,23,Saudi Arabia,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group H,4,7,Uruguay,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group I,1,2,France,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group I,2,13,Senegal,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group I,3,1567,Iraq,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group I,4,1090,Norway,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group J,1,26,Argentina,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group J,2,1532,Algeria,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group J,3,775,Austria,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group J,4,1548,Jordan,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group K,1,27,Portugal,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group K,2,1508,Congo DR,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group K,3,1568,Uzbekistan,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group K,4,8,Colombia,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group L,1,10,England,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group L,2,3,Croatia,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group L,3,1504,Ghana,0,0,,Possible Advanced,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage - Group L,4,11,Panama,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,1,22,Iran,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,2,775,Austria,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,3,770,Czech Republic,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,4,20,Australia,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,5,1501,Ivory Coast,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,6,5,Sweden,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,7,1568,Uzbekistan,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,8,1569,Qatar,0,0,,Advancing to the Round of 32,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,9,1567,Iraq,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,10,23,Saudi Arabia,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,11,1504,Ghana,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00
+2026,1,World Cup,Group Stage,12,2386,Haiti,0,0,,,0,0,0,0,0,0,2026-06-12T00:00:00+00:00

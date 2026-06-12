@@ -1,0 +1,18 @@
+fixture_id,elapsed,extra,team_id,team,player_id,player,assist_id,assist,type,detail,comments
+1489369,9,,16,Mexico,35532,J. Quinones,266345.0,E. Lira,Goal,Normal Goal,
+1489369,17,,1531,South Africa,3287,T. Mokoena,,,Card,Yellow Card,Tripping
+1489369,23,,16,Mexico,212233,B. Gutierrez,,,Card,Yellow Card,Tripping
+1489369,49,,1531,South Africa,158433,Y. Sithole,,,Card,Red Card,Tripping
+1489369,56,,1531,South Africa,98936,L. Foster,194430.0,T. Mbatha,subst,Substitution 1,
+1489369,61,,1531,South Africa,268710,J. Adams,3289.0,T. Zwane,subst,Substitution 2,
+1489369,66,,16,Mexico,212233,B. Gutierrez,35690.0,L. Chavez,subst,Substitution 1,
+1489369,66,,16,Mexico,750,A. Fidalgo,482605.0,G. Mora,subst,Substitution 2,
+1489369,67,,16,Mexico,2887,R. Jimenez,2879.0,R. Alvarado,Goal,Normal Goal,
+1489369,74,,1531,South Africa,46458,N. Sibisi,,,Card,Yellow Card,Roughing
+1489369,76,,16,Mexico,266345,E. Lira,2869.0,E. Alvarez,subst,Substitution 3,
+1489369,76,,16,Mexico,2887,R. Jimenez,291713.0,A. Gonzalez,subst,Substitution 4,
+1489369,77,,1531,South Africa,127429,I. Rayners,201354.0,E. Makgopa,subst,Substitution 3,
+1489369,77,,1531,South Africa,46334,A. Modiba,179893.0,O. Appollis,subst,Substitution 4,
+1489369,79,,16,Mexico,35532,J. Quinones,2889.0,A. Vega,subst,Substitution 5,
+1489369,84,,1531,South Africa,3289,T. Zwane,,,Card,Red Card,Elbowing
+1489369,90,2.0,16,Mexico,2873,C. Montes,,,Card,Red Card,Tripping

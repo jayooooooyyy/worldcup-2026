@@ -1,0 +1,21 @@
+match_id,home_team,away_team,date,polymarket_event_url,polymarket_event_slug,polymarket_event_name,polymarket_home_team,polymarket_away_team,match_score,needs_review,fetch_status
+wc2026_r055,Argentina,Algeria,2026-06-16,https://polymarket.com/sports/world-cup/fifwc-arg-alg-2026-06-16,fifwc-arg-alg-2026-06-16,,,,1.0,False,listed
+wc2026_r020,Australia,Turkey,2026-06-14,https://polymarket.com/sports/world-cup/fifwc-aus-tur-2026-06-14,fifwc-aus-tur-2026-06-14,,,,1.0,False,listed
+wc2026_r056,Austria,Jordan,2026-06-17,https://polymarket.com/sports/world-cup/fifwc-aut-jor-2026-06-17,fifwc-aut-jor-2026-06-17,,,,1.0,False,listed
+wc2026_r037,Belgium,Egypt,2026-06-15,https://polymarket.com/sports/world-cup/fifwc-bel-egy-2026-06-15,fifwc-bel-egy-2026-06-15,,,,1.0,False,listed
+wc2026_r013,Brazil,Morocco,2026-06-13,https://polymarket.com/sports/world-cup/fifwc-bra-mar-2026-06-13,fifwc-bra-mar-2026-06-13,,,,1.0,False,listed
+wc2026_r007,Canada,Bosnia and Herzegovina,2026-06-12,https://polymarket.com/sports/world-cup/fifwc-can-bih-2026-06-12,fifwc-can-bih-2026-06-12,,,,1.0,False,listed
+wc2026_r026,Ivory Coast,Ecuador,2026-06-14,https://polymarket.com/sports/world-cup/fifwc-civ-ecu-2026-06-14,fifwc-civ-ecu-2026-06-14,,,,1.0,False,listed
+wc2026_r043,Spain,Cape Verde,2026-06-15,https://polymarket.com/sports/world-cup/fifwc-esp-cvi-2026-06-15,fifwc-esp-cvi-2026-06-15,,,,1.0,False,listed
+wc2026_r049,France,Senegal,2026-06-16,https://polymarket.com/sports/world-cup/fifwc-fra-sen-2026-06-16,fifwc-fra-sen-2026-06-16,,,,1.0,False,listed
+wc2026_r025,Germany,Curaçao,2026-06-14,https://polymarket.com/sports/world-cup/fifwc-ger-kor-2026-06-14,fifwc-ger-kor-2026-06-14,,,,1.0,False,listed
+wc2026_r014,Haiti,Scotland,2026-06-13,https://polymarket.com/sports/world-cup/fifwc-hai-sco-2026-06-13,fifwc-hai-sco-2026-06-13,,,,1.0,False,listed
+wc2026_r038,Iran,New Zealand,2026-06-15,https://polymarket.com/sports/world-cup/fifwc-irn-nzl-2026-06-15,fifwc-irn-nzl-2026-06-15,,,,1.0,False,listed
+wc2026_r050,Iraq,Norway,2026-06-16,https://polymarket.com/sports/world-cup/fifwc-irq-nor-2026-06-16,fifwc-irq-nor-2026-06-16,,,,1.0,False,listed
+wc2026_r002,South Korea,Czechia,2026-06-11,https://polymarket.com/sports/world-cup/fifwc-kr-cze-2026-06-11,fifwc-kr-cze-2026-06-11,,,,1.0,False,listed
+wc2026_r044,Saudi Arabia,Uruguay,2026-06-15,https://polymarket.com/sports/world-cup/fifwc-ksa-ury-2026-06-15,fifwc-ksa-ury-2026-06-15,,,,1.0,False,listed
+wc2026_r001,Mexico,South Africa,2026-06-11,https://polymarket.com/sports/world-cup/fifwc-mex-rsa-2026-06-11,fifwc-mex-rsa-2026-06-11,,,,1.0,False,listed
+wc2026_r031,Netherlands,Japan,2026-06-14,https://polymarket.com/sports/world-cup/fifwc-nld-jpn-2026-06-14,fifwc-nld-jpn-2026-06-14,,,,1.0,False,listed
+wc2026_r008,Qatar,Switzerland,2026-06-13,https://polymarket.com/sports/world-cup/fifwc-qat-che-2026-06-13,fifwc-qat-che-2026-06-13,,,,1.0,False,listed
+wc2026_r032,Sweden,Tunisia,2026-06-14,https://polymarket.com/sports/world-cup/fifwc-swe-tun-2026-06-14,fifwc-swe-tun-2026-06-14,,,,1.0,False,listed
+wc2026_r019,United States,Paraguay,2026-06-12,https://polymarket.com/sports/world-cup/fifwc-usa-par-2026-06-12,fifwc-usa-par-2026-06-12,,,,1.0,False,listed
